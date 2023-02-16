@@ -37,4 +37,8 @@ data("iris")
 
 plot(iris$Species,iris$Petal.Length)
 ```
+```{r}
+#extra information...
+library(ggplot2)
+```
 
